@@ -1,0 +1,7 @@
+{
+  "name": "ColorMix GoStamp - Especialista em Tintas Polietileno",
+  "description": "App especializado para análise de cores e formulação de misturas de tintas para impressão em polietileno (PE). Identifica cores puras ou calcula receitas de mistura realistas.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
